@@ -90,7 +90,7 @@ def get_python_filepath():
 # CODE
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 class SNA_OT_BTN_382ab4efc2(bpy.types.Operator):
-    bl_idname = 'scripting_nodes.sna_ot_btn_382ab4efc2'
+    bl_idname = 'Quick Particles'
     bl_label = r"Quick Particles"
     bl_description = r"Add a Quick Particle System"
     bl_options = {"REGISTER"}
